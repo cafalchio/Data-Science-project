@@ -2,7 +2,7 @@
 
 Practising CNN in the Udacity project
 
-The workflow 
+This notebook walks you through one of the most popular Udacity projects across machine learning and artificial intellegence nanodegree programs. The goal is to classify images of dogs according to their breed. 
 
 ## Resources
 
@@ -10,7 +10,7 @@ The workflow
    
    Dog dataset:
    
-   https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+  https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
    
   Human Ddataset:
   
