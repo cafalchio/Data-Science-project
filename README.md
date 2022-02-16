@@ -25,14 +25,16 @@ This notebook walks you through one of the most popular Udacity projects across 
   https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz
 
 ### Requirements
-   *opencv-python==3.2.0.6
-   *h5py==2.6.0
-   *matplotlib==2.0.0
-   *numpy==1.12.0
-   *scipy==0.18.1
-   *tqdm==4.11.2
-   *keras==2.0.2
-   *scikit-learn==0.18.1
-   *pillow==4.0.0
-   *ipykernel==4.6.1
-   *tensorflow-gpu==1.0.0
+   <li>
+   <ul>opencv-python==3.2.0.6</ul>
+   <ul>h5py==2.6.0</ul>
+   <ul>matplotlib==2.0.0</ul>
+   <ul>numpy==1.12.0</ul>
+   <ul>scipy==0.18.1</ul>
+   <ul>tqdm==4.11.2</ul>
+   <ul>keras==2.0.2</ul>
+   <ul>scikit-learn==0.18.1</ul>
+   <ul>pillow==4.0.0</ul>
+   <ul>ipykernel==4.6.1</ul>
+   <ul>tensorflow-gpu==1.0.0</ul>
+   </li>
