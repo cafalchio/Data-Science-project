@@ -28,13 +28,13 @@ This notebook walks you through one of the most popular Udacity projects across 
    <ul>
    <li>opencv-python==3.2.0.6</li>
    <li>h5py==2.6.0</li>
-   <ul>matplotlib==2.0.0</ul>
-   <ul>numpy==1.12.0</ul>
-   <ul>scipy==0.18.1</ul>
-   <ul>tqdm==4.11.2</ul>
-   <ul>keras==2.0.2</ul>
-   <ul>scikit-learn==0.18.1</ul>
-   <ul>pillow==4.0.0</ul>
-   <ul>ipykernel==4.6.1</ul>
-   <ul>tensorflow-gpu==1.0.0</ul>
+   <li>matplotlib==2.0.0</li>
+   <li>numpy==1.12.0</li>
+   <li>scipy==0.18.1</li>
+   <li>tqdm==4.11.2</li>
+   <li>keras==2.0.2</li>
+   <li>scikit-learn==0.18.1</li>
+   <li>pillow==4.0.0</li>
+   <li>ipykernel==4.6.1</li>
+   <li>tensorflow-gpu==1.0.0</li>
    </ul>
