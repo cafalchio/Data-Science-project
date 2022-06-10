@@ -1,6 +1,7 @@
 # Dog Breed Classifier
 
-Practising CNN in the Udacity project
+The classical CNN dog classification (why not??). The motivation behind it was to train and test diffent models. Also, started to create models instead of using just the image models on the marked.
+
 
 This notebook walks you through one of the most popular Udacity projects across machine learning and artificial intellegence nanodegree programs. The goal is to classify images of dogs according to their breed. 
 
@@ -17,6 +18,8 @@ This notebook walks you through one of the most popular Udacity projects across 
   https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
    
   ### Models:
+
+  Custom (mine)
   
   VGG16:
   https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz
